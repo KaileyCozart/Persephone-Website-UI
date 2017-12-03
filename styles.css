@@ -66,7 +66,7 @@ h1 {
 .gitHubBubble {
     float: right;
     margin-right: 20px;
-    background-image: url('Images/github.png');
+    background-image: url('Images/github2.png');
     background-size: cover;
 }
 
@@ -118,19 +118,19 @@ h2 {
 }
 
 .individualExperienceDiv {
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
     background-color: grey;
     padding-top: 20px;
-    padding-right: 20px;
+    padding-right: 40px;
     padding-bottom: 20px;
-    padding-left: 20px;
+    padding-left: 40px;
     border-radius: 15px;
     margin-top: 80px;
 }
 
 .individualExperienceDiv:hover {
-    box-shadow: 0 0 7px #fff;
+    box-shadow: 0 0 7px black;
 }
 
 /* Projects Div */
@@ -150,13 +150,13 @@ h2 {
 }
 
 .individualProjectDiv {
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 20%;
+    margin-right: 20%;
     background-color: white;
     padding-top: 20px;
-    padding-right: 20px;
+    padding-right: 40px;
     padding-bottom: 20px;
-    padding-left: 20px;
+    padding-left: 40px;
     border-radius: 15px; 
     margin-top: 80px;
 }
