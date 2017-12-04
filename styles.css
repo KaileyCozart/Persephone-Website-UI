@@ -14,8 +14,10 @@ h1, h2, h3 {
 }
 
 .divHeader {
+    font-size: 25px;
     color: #353535;
     text-align: center;
+    margin-top: 80px;
 }
 
 /* Name Div */
@@ -38,13 +40,14 @@ h1, h2, h3 {
     rgba(74, 67, 67, 0.45),
     rgba(255, 255, 255, 0.45)
     ),
-    url('Images/WhiteTriangle.jpg');
+    url('Images/WhiteSquare.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
 
 h1 {
     margin-bottom: 40px;
+    letter-spacing: 2;
 }
 
 .gitHubBubbleContainer {
@@ -86,7 +89,7 @@ h1 {
     width: 100%;
     background-color: grey;
     padding-top: 0px;
-    padding-bottom: 230px;
+    padding-bottom: 115px;
 }
 
 .phoneNumberDiv, .addressDiv {
@@ -96,16 +99,21 @@ h1 {
 
 .textAlignRight {
     text-align: right;
-    padding-right: 30px;
+    padding-right: 25px;
 }
 
 .textAlignLeft {
     text-align: left;
-    padding-left: 30px;
+    padding-left: 25px;
 }
 
 h2 {
-    margin-top: 60px;
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+h3 {
+    font-size: 13px;
 }
 
 /* Experience Div */
@@ -142,7 +150,7 @@ h2 {
     rgba(74, 67, 67, 0.45), 
     rgba(255, 255, 255, 0.45)
     ),
-    url('Images/WhiteTriangle.jpg');
+    url('Images/WhiteSquare.jpg');
     background-attachment: fixed;
     background-size: cover;
     padding-top: 20px;
@@ -174,7 +182,8 @@ h2 {
 }
 
 .skillsDivHeader {
-    margin-top: -10px;
+    margin-top: 10px;
+    margin-bottom: 40px;
 }
 
 h6 {
