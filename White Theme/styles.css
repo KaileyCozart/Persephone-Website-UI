@@ -32,7 +32,7 @@ h1, h2, h3 {
     rgba(74, 67, 67, 0.45),
     rgba(255, 255, 255, 0.45)
     ),
-    url('Images/WhiteSquare.jpg');
+    url('Images/WhiteTriangle.jpg');
     background-attachment: fixed;
     background-size: cover;
 }
@@ -149,7 +149,7 @@ h3 {
     rgba(74, 67, 67, 0.45), 
     rgba(255, 255, 255, 0.45)
     ),
-    url('Images/WhiteSquare.jpg');
+    url('Images/WhiteTriangle.jpg');
     background-attachment: fixed;
     background-size: cover;
     padding-top: 20px;
