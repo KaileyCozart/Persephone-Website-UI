@@ -4,5 +4,3 @@
 December, 2017
 
 ## View Online
-
-http://chstechclass.com/kcozart/Persephone/
